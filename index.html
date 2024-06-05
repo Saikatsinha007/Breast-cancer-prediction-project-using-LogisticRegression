@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Breast Cancer Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 50px;
+        }
+        .container {
+            max-width: 500px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+        input[type="text"] {
+            margin-bottom: 15px;
+            padding: 10px;
+            font-size: 16px;
+        }
+        input[type="submit"] {
+            padding: 10px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .result {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Breast Cancer Prediction</h1>
+        <form action="/predict" method="POST">
+            <label for="features">Enter features separated by commas:</label>
+            <input type="text" id="features" name="feature" required>
+            <input type="submit" value="Predict">
+        </form>
+        {% if message %}
+        <div class="result">
+            <h2>Prediction: {{ message[0] }}</h2>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
