@@ -3,24 +3,12 @@
  Certainly, here’s a more detailed description:
 
 ---
-![Screenshot 2024-06-05 131915](https://github.com/Saikatsinha007/Breast-cancer-prediction-project-using-LogisticRegression/assets/111873014/0689177d-7f69-4b93-85ce-b1c0ebd51df3)
-![Screenshot 2024-06-05 131907](https://github.com/Saikatsinha007/Breast-cancer-prediction-project-using-LogisticRegression/assets/111873014/669379d6-d39a-4c4d-aea6-49bb78f3fad5)
-![Screenshot 2024-06-05 131853](https://github.com/Saikatsinha007/Breast-cancer-prediction-project-using-LogisticRegression/assets/111873014/3472a98e-a633-4faf-8101-ca61844eb95a)
 
+![Screenshot 2024-06-05 131853](https://github.com/Saikatsinha007/Breast-cancer-prediction-project-using-LogisticRegression/assets/111873014/a4322d70-293b-4254-8f99-f7519e96d3d6)
 
+![Screenshot 2024-06-05 131907](https://github.com/Saikatsinha007/Breast-cancer-prediction-project-using-LogisticRegression/assets/111873014/124cdfe6-9151-4730-abd7-a74bbdd8b298)
 
-
-![Screenshot 2024-06-05 131853](https://github.com/Saikatsinha007/Breast-cancer-prediction-project-using-LogisticRegression/assets/111873014/b443ebd8-e383-4a6d-bd41-56e706b4f315)
-![Screenshot 2024-06-05 131915](https://github.com/Saikatsinha007/Breast-cancer-prediction-project-using-LogisticRegression/assets/111873014/f1b4a223-9188-435f-bb5f-ef0be931d53f)
-![Screenshot 2024-06-05 131907](https://github.com/Saikatsinha007/Breast-cancer-prediction-project-using-LogisticRegression/assets/111873014/ec3defeb-4c8e-4a58-9225-ce683e43dc5b)
-
-
-
-
-
-![Screenshot 2024-06-05 131907](https://github.com/Saikatsinha007/Breast-cancer-prediction-project-using-LogisticRegression/assets/111873014/c4bba14d-7f72-488b-8094-ae92fc8eec95)
-![Screenshot 2024-06-05 131853](https://github.com/Saikatsinha007/Breast-cancer-prediction-project-using-LogisticRegression/assets/111873014/fd4cbafc-741a-4d7d-91fa-b10e2f825145)
-![Screenshot 2024-06-05 131915](https://github.com/Saikatsinha007/Breast-cancer-prediction-project-using-LogisticRegression/assets/111873014/f378a43c-3906-4e92-bdd9-d41f47596a87)
+![Screenshot 2024-06-05 131915](https://github.com/Saikatsinha007/Breast-cancer-prediction-project-using-LogisticRegression/assets/111873014/e9f84dae-5e9a-4354-bfa8-c723806d65f5)
 
 ### Breast Cancer Prediction Project Description
 
